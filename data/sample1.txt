@@ -1,0 +1,90 @@
+Introduction
+
+Microsoft is one of the world’s largest and most influential technology companies. It plays a major role in our daily digital life—from using computers and sending emails to managing business operations in large organizations. Microsoft develops software, services, and tools that help individuals, students, professionals, and companies work efficiently.
+
+History of Microsoft
+
+Microsoft was founded in 1975 by Bill Gates and Paul Allen. The company started with a simple goal: to make computers accessible and useful for everyone. Over the years, Microsoft grew rapidly and became a global leader in software development. Today, its products are used by millions of people around the world.
+
+Microsoft Windows
+
+One of Microsoft’s most popular products is Windows.
+Windows is an Operating System, which means it controls how a computer works.
+
+With Windows, users can:
+
+Open applications
+
+Manage files and folders
+
+Use the internet
+
+Connect devices like printers and USB drives
+
+Most laptops and desktops in offices run on Windows.
+
+Microsoft Office
+
+Microsoft Office is a collection of applications used for office and academic work.
+
+Key applications include:
+
+MS Word – for typing documents
+
+MS Excel – for tables and calculations
+
+MS PowerPoint – for presentations
+
+Outlook – for emails
+
+Microsoft Office is widely used in companies, colleges, and government offices.
+
+Microsoft Accounts and Email
+
+Microsoft provides Microsoft accounts that allow users to log in and access services.
+Companies usually provide official email IDs (Outlook-based) for communication, meetings, and accessing internal systems.
+
+Using a Microsoft account, employees can use:
+
+Outlook (email)
+
+Teams (meetings)
+
+OneDrive (cloud storage)
+
+Microsoft Cloud and Azure
+
+Microsoft also provides cloud services through Azure.
+Cloud computing allows companies to store data and run applications on the internet instead of physical servers.
+
+Azure helps businesses with:
+
+Data storage
+
+Application hosting
+
+Security
+
+Scalability
+
+Microsoft Dynamics
+
+Microsoft Dynamics is a business application used by organizations to manage:
+
+Customers
+
+Sales
+
+Finance
+
+Operations
+
+It helps companies store and manage large amounts of business data in a structured and secure way.
+
+Importance of Microsoft in Careers
+
+Microsoft skills are highly valued in the job market. Basic knowledge of Windows, Office, Outlook, and Teams is expected in most roles. Advanced tools like Azure and Dynamics are used in professional and enterprise environments.
+
+Conclusion
+
+Microsoft is more than just a software company—it is a complete technology ecosystem. From basic computer usage to advanced business solutions, Microsoft products support learning, productivity, and business growth. Understanding Microsoft basics is an important step for students and freshers entering the professional world.
